@@ -19,29 +19,20 @@ Data cleaning
 Feature engineering
 Features selection
 
-
-**Tech Stack :**
-
-**1) Development Platform :** Jupyter ,vscode
-
-**2) Framework/Libraries :** Tenserflow ,DS stack(Pandas,numpy,scikitlearn)
-
 ## Step 3 : Model  : 
 User to user collaborative filtering to recommend similar books for a particular input books.
 
+## step 4 : Deploying using streamlit and fastapi: 
+
+
 **Tech Stack :**
 
 **1) Development Platform :** Jupyter ,vscode
 
-**2) Framework/Libraries :** Tenserflow ,DS stack(Pandas,numpy,scikitlearn)
+**2) Framework/Libraries :** Fastapi,Tensorflow ,DS stack(Pandas,numpy,scikitlearn)
 
-## step 4 : Building command line application to serve model: 
-**Argparse**
-
-
-
-**Deployment platform  :**
-Command line platform .
+**Deployment :**
+ Streamlit
 
 
 
